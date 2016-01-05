@@ -1,0 +1,3 @@
+1)JRE(Java Runtime Environment) should be installed on the machine.
+
+2)To be able to play partially downloaded files through DManager you need to copy vlcj DATA to c:// drive.
